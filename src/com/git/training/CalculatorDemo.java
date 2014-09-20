@@ -9,7 +9,8 @@ public class CalculatorDemo {
 		// TODO Auto-generated method stub
 
 		Functions f = new Functions();
-		System.out.println(f.add(1, 2));
+		System.out.println("Addition: "+f.add(1, 2));
+		System.out.println("Subtraction: "+f.subtract(2, 1));
 	}
 
 }
