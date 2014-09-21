@@ -19,4 +19,13 @@ public class Functions {
 	public double raiseTo(double a, double b){
 		return Math.pow(a, b);
 	}
+	public int division(int a, int b){
+		return a/b;
+	}
+	public int cube(int a){
+		return a*a*a;
+	}
+	public double squareRoo(double a){
+		return Math.sqrt(a);
+	}
 }
