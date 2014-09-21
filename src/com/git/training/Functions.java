@@ -22,4 +22,7 @@ public class Functions {
 	public int cube(int a){
 		return a*a*a;
 	}
+	public double squareRoo(double a){
+		return Math.sqrt(a);
+	}
 }
