@@ -20,6 +20,7 @@ public class CalculatorDemo {
 		System.out.println("SquareRoot: "+f.squareRoo(9));
 		DisplayComment d= new DisplayComment();
 		d.display("This is end");
+		System.out.println("Sprint1 changes done");
 	}
 
 }
