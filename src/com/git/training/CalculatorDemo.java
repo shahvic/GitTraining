@@ -18,6 +18,7 @@ public class CalculatorDemo {
 		System.out.println("Division: "+f.division(27,3));
 		System.out.println("Cube: "+f.cube(3));
 		System.out.println("SquareRoot: "+f.squareRoo(9));
+		System.out.println("Cuberoot: "+f.cubeRoot(27));
 		DisplayComment d= new DisplayComment();
 		d.display("This is end");
 	}
