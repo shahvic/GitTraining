@@ -20,7 +20,7 @@ public class CalculatorDemo {
 		System.out.println("SquareRoot: "+f.squareRoo(9));
 		System.out.println("Cuberoot: "+f.cubeRoot(27));
 		DisplayComment d= new DisplayComment();
-		d.display("This is end");
+		d.display("This is not end");
 	}
 
 }
