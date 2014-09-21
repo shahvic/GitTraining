@@ -19,4 +19,7 @@ public class Functions {
 	public int division(int a, int b){
 		return a/b;
 	}
+	public int cube(int a){
+		return a*a*a;
+	}
 }
