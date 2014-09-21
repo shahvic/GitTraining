@@ -16,4 +16,7 @@ public class Functions {
 		
 		return a*b;
 	}
+	public double raiseTo(double a, double b){
+		return Math.pow(a, b);
+	}
 }
