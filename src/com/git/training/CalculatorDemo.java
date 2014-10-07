@@ -18,9 +18,14 @@ public class CalculatorDemo {
 		System.out.println("Division: "+f.division(27,3));
 		System.out.println("Cube: "+f.cube(3));
 		System.out.println("SquareRoot: "+f.squareRoo(9));
+		System.out.println("Cuberoot: "+f.cubeRoot(27));
 		DisplayComment d= new DisplayComment();
+<<<<<<< HEAD
 		d.display("This is end");
 		System.out.println("Sprint1 changes done");
+=======
+		d.display("This is not end");
+>>>>>>> origin/Relesae1Change
 	}
 
 }

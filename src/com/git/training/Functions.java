@@ -28,4 +28,7 @@ public class Functions {
 	public double squareRoo(double a){
 		return Math.sqrt(a);
 	}
+	public double cubeRoot(double a){
+		return Math.cbrt(a);
+	}
 }
